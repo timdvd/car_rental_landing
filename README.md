@@ -16,7 +16,7 @@
 Clone the repository:  git clone https://github.com/timdvd/car_rental_landing.git
 
 ### Preview:
-[https://timdvd.github.io/yourmeal_landing/](https://timdvd.github.io/car_rental_landing/)
+https://timdvd.github.io/car_rental_landing/
 
 
 ## Screenshots:
